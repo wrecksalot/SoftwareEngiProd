@@ -1,2 +1,2 @@
 # SoftwareEngiProd
-Software Engineering project
+Software Engineering project for Spring 2020
